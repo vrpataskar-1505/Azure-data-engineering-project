@@ -192,12 +192,6 @@ Azure-data-engineering-project/
 - Building Power BI dashboards for business analysis.
 - Managing code and documentation with Git and GitHub.
 
-## Security Considerations
-
-- Never commit passwords, access keys, SAS tokens, client secrets, or other credentials.
-- Use secure authentication for Azure services.
-- Keep sensitive configuration separate from public source code.
-
 ## Project Status
 
 Hands-on implementation of an end-to-end Azure Data Engineering pipeline, including data ingestion, transformation, analytical querying, and Power BI reporting.
