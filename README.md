@@ -155,8 +155,6 @@ Azure-data-engineering-project/
 └── README.md
 ```
 
-*The directory structure is illustrative. Update file paths and names to match the actual repository.*
-
 ## Prerequisites
 
 - An Azure subscription.
